@@ -1,17 +1,29 @@
-# DeepLearningModels
+# DeepLearningModels for Face Classification
 
-## this repo contains 3 models for face classification (VGG2FACE dataset)
-### ResNet from scratch 
-### pretrained DeneseNet
-### pretrained Xception
+This repository contains implementations of three deep learning models for face classification, trained on the **VGG2FACE** dataset. The models used are:
 
+- **ResNet from Scratch**
+- **Pretrained DenseNet**
+- **Pretrained Xception**
 
-### Task #1 
-#### Team Mmebers names : 
-##### Gamal Sayed Ahmed
-##### Ahmed Mahmoud Mohamed
-##### Habiba Sherif Sayed
-##### Youssef Hany El-Shahat
-##### Dalia Mahmoud EL-Sayed
-##### Hazem Emad Huissen
+## Table of Contents
 
+- Models.
+  - ResNet from Scratch.
+     - Visualizations
+     - paper used
+  - Pretrained DenseNet.
+     - Visualizations
+     - paper used
+  - Pretrained Xception.
+     - Visualizations
+     - paper used
+- Documentation
+
+- Team Members:
+  - Gamal Sayed Ahmed
+  - Ahmed Mahmoud Mohamed
+  - Habiba Sherif Sayed
+  - Hazem Emad Huissen
+  - Dalia Mahmoud El-Sayed
+  - Youssef Hany El-Shahat
